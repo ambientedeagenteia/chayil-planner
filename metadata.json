@@ -1,0 +1,7 @@
+{
+  "name": "Chayil - Planner da Mulher Empreendedora",
+  "description": "Um planner sofisticado e fidedigno para gestão de negócios, finanças e rotina feminina de alta performance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

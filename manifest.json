@@ -1,0 +1,19 @@
+
+{
+  "name": "Chayil Luxury Planner",
+  "short_name": "Chayil",
+  "description": "Planner Estratégico para a Mulher Empreendedora",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4ecdc",
+  "theme_color": "#f4ecdc",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://prod-files-secure.s3.us-west-2.amazonaws.com/fa68414b-c972-478f-8f7e-402d5ea3d09f/63eadfe2-e54d-4f64-80f2-ca010e987777/Capa_para_facebook_fotogrfico_modular_claro_(3).png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
